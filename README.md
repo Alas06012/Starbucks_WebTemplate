@@ -3,4 +3,6 @@ Hi! This is one of my first Websites that i made for learning propouses.
 This one is entirely made with Bootstrap and some other frameworks. 
 Hope you enjoy it!! 😊😊
 
+btw it´s in spanish...
+
 
